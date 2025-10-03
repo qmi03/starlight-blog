@@ -6,8 +6,7 @@ import catppuccin from "@catppuccin/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  // TODO
-  site: "https://www.rainsberger.ca",
+  site: "https://www.qmi03.netlify.app",
 
   integrations: [
     starlight({
