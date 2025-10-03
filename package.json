@@ -9,6 +9,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.14.1"
+    "@astrojs/starlight": "^0.36.0",
+    "@catppuccin/starlight": "^1.0.2",
+    "astro": "^5.14.1",
+    "starlight-blog": "^0.24.1",
+    "typescript": "^5.9.3"
   }
 }
